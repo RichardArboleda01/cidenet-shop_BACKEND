@@ -21,4 +21,10 @@ Cidenet Shop BACKEND
 		    <artifactId>spring-boot-starter-mail</artifactId>
 		    <version>2.5.6</version>
 		</dependency>
+	##Dependency to swagger plugin documentation
+	<dependency>
+	    <groupId>org.springdoc</groupId>
+	    <artifactId>springdoc-openapi-ui</artifactId>
+	    <version>1.6.4</version>
+	</dependency>
 
